@@ -1,0 +1,18 @@
+================= Finnid-API (CQRS With Microservice) =========================
+
+1. Webapi
+
+2. Application 
+	* DTO's,
+	* Commands/Query,
+	* Handler
+	
+3. Domain 
+	* Entities Based on database tables.
+	
+4. Infrastructure
+
+	* DataBase (context),
+	* Notification (Alert,Email,SMS,WhatsApp),
+	* Logging,
+	* Caching
